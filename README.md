@@ -4,9 +4,13 @@ List of features to be supported in Phases and tech used
 # Tech
 
 Python
+
 FastAPI
+
 Streamlit
+
 UI5
+
 
 # Phase 1
 
